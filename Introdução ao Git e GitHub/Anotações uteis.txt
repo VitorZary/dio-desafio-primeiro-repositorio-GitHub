@@ -1,0 +1,12 @@
+Link para dowload do git https://git-scm.com/downloads
+
+iniciar repositorio: git init
+
+adicionar todos os arquivos para fazer commit: git add . 
+ou para adicionar apenas arquivos especificos: git add arquivo.txt
+
+comando para dar o commit e salvar o estado do projeto : git commit -m "mensagem explicando o commit aqui"
+
+comando para empurrar as alterações da máquina local para a maquina remota: git push origin (branch)
+
+comando para atualizar o repositório local usando o repositorio remoto: git pull origin (branch)
