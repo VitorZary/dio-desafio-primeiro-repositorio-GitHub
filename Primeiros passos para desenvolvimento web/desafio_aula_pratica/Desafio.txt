@@ -1,1 +1,0 @@
-O desafio consiste em construir um site usando alguma biblioteca visual jQuery
