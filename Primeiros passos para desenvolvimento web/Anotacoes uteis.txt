@@ -1,0 +1,5 @@
+https://www.apachefriends.org/pt_br/index.html dowload do xampp
+
+https://jquery.com/download/ download do jquery
+
+Alterar o diretorio onde o apache vai abrir os arquivos: abra Xampp Control Panel>botão config>propriedades DocumentRoot e <Directory> devem conter o caminho entre aspas.
